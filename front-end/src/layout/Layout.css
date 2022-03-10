@@ -1,6 +1,7 @@
 * {
   scroll-behavior: smooth;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "calibri", "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 p {
@@ -11,7 +12,7 @@ p {
 }
 
 .side-bar {
-  background-color: #2b2d42;
+  background-color: #3caea3;
   min-width: 200px;
 }
 #stick {
@@ -21,7 +22,6 @@ span {
   font-weight: bold;
 }
 
-
 body {
   background-color: #edf2f4;
 }
@@ -30,7 +30,7 @@ h1,
 h2,
 h3,
 p {
-  color: #353c41;
+  color: bl;
 }
 /* Dashboard */
 .date-button-container {
@@ -49,9 +49,8 @@ p {
   height: fit-content;
 }
 
-
 .reservation-tile {
-  background-color: #2b2d42;
+  background-color: blue;
   padding: 15px;
   border-radius: 10px;
   color: white;
@@ -78,19 +77,19 @@ p {
 }
 
 .page-head-container {
-  background-color: #91bbe0;
+  background-color: #f6d55c;
   width: 50%;
   padding: 15px;
   border-radius: 10px;
-  border: 2px solid #5d85a8;
+  border: 2px solid #f6d55c;
   margin-top: 10px;
   margin-bottom: 10px;
- text-align: center;
+  text-align: center;
 }
 
 /*Table Display */
 .table-tile {
-  background-color: #2b2d42;
+  background-color: #ee6c4d;
   padding: 15px;
   border-radius: 10px;
   color: white;
@@ -102,7 +101,7 @@ p {
   display: flex;
 }
 .form-card {
-  background-color: #2b2d42;
+  background-color: #ee6c4d;
   width: 50%;
   text-align: center;
   border-radius: 10px;
