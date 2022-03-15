@@ -326,6 +326,6 @@ Sending a GET request to the /tables/:table_id endpoint will return the table wi
 
 # Screenshots
 1. ![Dashboard](/Screenshots/01Dashboard.png "Dashboard")
-2. ![Search for Reservation](/02search.png "Searching reservation by phone number")
-3. ![Create New Reservation](/03newreservation.png "Create new reservation")
-4. ![Create New Table](/04newtable.png "Create New Table")
+2. ![Search for Reservation](/Screenshots/02search.png "Searching reservation by phone number")
+3. ![Create New Reservation](/Screenshots/03newreservation.png "Create new reservation")
+4. ![Create New Table](/Screenshots/04newtable.png "Create New Table")
